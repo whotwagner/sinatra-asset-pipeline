@@ -17,7 +17,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'sinatra', '>= 2.0'
   gem.add_dependency 'sass', '~> 3.5'
   gem.add_dependency 'coffee-script', '~> 2.4'
-  gem.add_dependency 'sprockets', '~> 3.7'
+  gem.add_dependency 'sprockets', '~> 4.2'
   gem.add_dependency 'sprockets-helpers', '~> 1.2'
   gem.add_development_dependency 'rspec', '~> 3.7'
   gem.add_development_dependency 'rack-test', '~> 0.8'
